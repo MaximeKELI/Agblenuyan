@@ -38,7 +38,9 @@ dependencies:
   camera: ^0.10.5+3       # Pour la caméra
   tflite: ^1.1.2          # Pour l'IA embarquée
   http: ^0.13.5           # Pour les requêtes API
-  provider: ^6.0.5  
+  provider: ^6.0.5 
+  flutter_map: ^3.0.0
+  latlong2: ^0.8.2 
 
 dev_dependencies:
   flutter_test:
